@@ -8,7 +8,7 @@ It's a Beginner-friendly regression project build using **pandas**, **scikit-lea
 ##   Features Used
 - Study hours per day
 - Sleep Duration 
-- sOCIAL MEDIA & Netflix usage
+- Social Media & Netflix usage
 - Attendance percentage
 - Diet quality & exercise frequency
 - Parental education levell
