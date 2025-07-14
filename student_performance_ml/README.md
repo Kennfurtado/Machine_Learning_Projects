@@ -29,4 +29,4 @@ It's a Beginner-friendly regression project build using **pandas**, **scikit-lea
 ## Files
 - 'student_performance_model.ipynb'---> Full notebook
 - 'student_habits_performance.csv'---> Dataset
-- 
+- ![Prediction Chart](Actual%20vs%20predicted.png) ----> Visualization
