@@ -24,4 +24,11 @@ It predicts if a person is diabetic based on various health inputs like Pregnanc
 - Pandas
 - Pickle
 
-## Screenshot
+## Screenshots
+
+### Web Application
+![Diabetic Prediction](Diabetes%20Prediction)
+
+### Decision Tree
+![Diabetic Prediction](Diabetes%20Prediction)
+
