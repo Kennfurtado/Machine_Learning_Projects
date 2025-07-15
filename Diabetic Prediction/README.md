@@ -27,7 +27,7 @@ It predicts if a person is diabetic based on various health inputs like Pregnanc
 ## Screenshots
 
 ### Web Application
-![Diabetic Prediction](Diabetes%20Prediction.png)
+![Diabetic Prediction](Diabetic%20Prediction.png)
 
 ### Decision Tree
 ![Decision Tree](Decision%20tree.png)
